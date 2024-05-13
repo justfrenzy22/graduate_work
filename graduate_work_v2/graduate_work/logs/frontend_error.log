@@ -1,0 +1,54 @@
+2024-03-19T13:02:55: 1:02:55 PM [vite] http proxy error at /movie/popular?lang=en-US&page=1:
+2024-03-19T13:02:55: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T13:02:55:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T13:02:55: 1:02:55 PM [vite] http proxy error at /user/load:
+2024-03-19T13:02:55: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T13:02:55:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T13:02:55: 1:02:55 PM [vite] http proxy error at /movie/nowPlaying?lang=en-US&page=1:
+2024-03-19T13:02:55: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T13:02:55:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T13:02:55: 1:02:55 PM [vite] http proxy error at /movie/trending?lang=en-US&time_window=day&page=1:
+2024-03-19T13:02:55: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T13:02:55:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:04: 2:25:04 PM [vite] http proxy error at /user/load:
+2024-03-19T14:25:04: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:04:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:04: 2:25:04 PM [vite] http proxy error at /tv/details/1418?lang=en-US:
+2024-03-19T14:25:04: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:04:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:06: 2:25:06 PM [vite] http proxy error at /user/load:
+2024-03-19T14:25:06: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:06:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:06: 2:25:06 PM [vite] http proxy error at /movie/trending?lang=en-US&time_window=day&page=1:
+2024-03-19T14:25:06: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:06:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:06: 2:25:06 PM [vite] http proxy error at /movie/nowPlaying?lang=en-US&page=1:
+2024-03-19T14:25:06: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:06:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:06: 2:25:06 PM [vite] http proxy error at /movie/popular?lang=en-US&page=1:
+2024-03-19T14:25:06: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:06:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:11: 2:25:11 PM [vite] http proxy error at /user/load:
+2024-03-19T14:25:11: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:11:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:11: 2:25:11 PM [vite] http proxy error at /tv/details/1418?lang=en-US:
+2024-03-19T14:25:11: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:11:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:12: 2:25:12 PM [vite] http proxy error at /user/load:
+2024-03-19T14:25:12: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:12:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:12: 2:25:12 PM [vite] http proxy error at /tv/details/1418?lang=en-US:
+2024-03-19T14:25:12: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:12:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:13: 2:25:13 PM [vite] http proxy error at /user/load:
+2024-03-19T14:25:13: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:13:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:13: 2:25:13 PM [vite] http proxy error at /tv/details/1418?lang=en-US:
+2024-03-19T14:25:13: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:13:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:18: 2:25:18 PM [vite] http proxy error at /user/load:
+2024-03-19T14:25:18: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:18:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+2024-03-19T14:25:18: 2:25:18 PM [vite] http proxy error at /tv/details/1418?lang=en-US:
+2024-03-19T14:25:18: Error: connect ECONNREFUSED 192.168.0.101:8000
+2024-03-19T14:25:18:     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)

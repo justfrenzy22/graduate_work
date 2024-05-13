@@ -1,0 +1,455 @@
+<mxfile host="app.diagrams.net" modified="2024-02-15T09:47:52.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="_iyeCa88CTvmhdsd06Bu" version="23.1.4" type="google">
+  <diagram name="Page-1" id="XDbEsqQMQ8Zj0wZkTtOc">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BSs_yr6912N-JeRX95PI-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="120" width="1080" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-5" value="регистриран&lt;br&gt;потребител" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;fontStyle=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="980" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-8" value="нерегистриран&lt;br style=&quot;font-size: 16px;&quot;&gt;потребител" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=2;fontSize=16;fontStyle=1;labelPosition=center;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-10" value="админ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;fontStyle=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-11" value="супер админ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-12" value="регистрация" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-14" value="вход в акаунт" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-33" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-230" y="375" as="sourcePoint" />
+            <mxPoint x="-30" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-34" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-230" y="255" as="sourcePoint" />
+            <mxPoint x="-30" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-35" value="популярни филми/сериали" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-37" value="популярни филми/сериали" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="515" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-38" value="популярни филми/сериали" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-41" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-49">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-230" y="310" as="sourcePoint" />
+            <mxPoint x="169.99999999999991" y="847.5699999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-64" y="310" />
+              <mxPoint x="116" y="310" />
+              <mxPoint x="115.66" y="482" />
+              <mxPoint x="115.66" y="562" />
+              <mxPoint x="115.66" y="632" />
+              <mxPoint x="116" y="1040" />
+              <mxPoint x="240" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-42" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="480" as="sourcePoint" />
+            <mxPoint x="150" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-43" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-35">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="310" as="sourcePoint" />
+            <mxPoint x="150" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-44" value="търсене/филтър" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="800" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-46" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-38">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="620" as="sourcePoint" />
+            <mxPoint x="150" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-48" value="сменяне на тема" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="940" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-49" value="сменяне на език" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1080" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-50" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-44">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="770" as="sourcePoint" />
+            <mxPoint x="170" y="664.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-51" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-48">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="900" as="sourcePoint" />
+            <mxPoint x="170" y="754.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-55" value="промяна на данни в профил" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-56" value="коментиране" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-57" value="реагиране на филм/сериал" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="515" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-59" value="променяне на акаунти/изтриване" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="900" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-60" value="изтриване на&lt;br style=&quot;font-size: 15px;&quot;&gt;коментари" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="780" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-61" value="променяне/изтриване&lt;br style=&quot;font-size: 15px;&quot;&gt;на филми/сериали" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="620" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-63" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=4;" edge="1" parent="1" source="BSs_yr6912N-JeRX95PI-5" target="BSs_yr6912N-JeRX95PI-57">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="390" as="sourcePoint" />
+            <mxPoint x="640" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="150" />
+              <mxPoint x="930" y="160" />
+              <mxPoint x="860" y="160" />
+              <mxPoint x="730" y="160" />
+              <mxPoint x="730" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-64" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-55">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="730" y="425" as="sourcePoint" />
+            <mxPoint x="640" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-65" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-56">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="730" y="295" as="sourcePoint" />
+            <mxPoint x="680" y="314.40999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-67" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-49">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="730" y="230" as="sourcePoint" />
+            <mxPoint x="320" y="1099.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="230" />
+              <mxPoint x="570" y="230" />
+              <mxPoint x="360" y="230" />
+              <mxPoint x="360" y="400" />
+              <mxPoint x="360" y="850" />
+              <mxPoint x="360" y="1115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-68" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-48">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="975" as="sourcePoint" />
+            <mxPoint x="560" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-69" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-44">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="835" as="sourcePoint" />
+            <mxPoint x="320" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-70" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-38">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="695" as="sourcePoint" />
+            <mxPoint x="330" y="985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-71" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="550" as="sourcePoint" />
+            <mxPoint x="320" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-72" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-35">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="395" as="sourcePoint" />
+            <mxPoint x="330" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-73" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" source="BSs_yr6912N-JeRX95PI-10" target="BSs_yr6912N-JeRX95PI-49">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="940" as="sourcePoint" />
+            <mxPoint x="280" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-180" y="1170" />
+              <mxPoint x="-180" y="1140" />
+              <mxPoint x="-150" y="1140" />
+              <mxPoint x="-100" y="1140" />
+              <mxPoint x="90" y="1140" />
+              <mxPoint x="90" y="1115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-74" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-35">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="1140" as="sourcePoint" />
+            <mxPoint x="280" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="1120" />
+              <mxPoint x="90" y="1100" />
+              <mxPoint x="90" y="1050" />
+              <mxPoint x="90" y="960" />
+              <mxPoint x="90" y="820" />
+              <mxPoint x="90" y="680" />
+              <mxPoint x="90" y="530" />
+              <mxPoint x="90" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-75" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-38">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="695" as="sourcePoint" />
+            <mxPoint x="230" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-76" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="550" as="sourcePoint" />
+            <mxPoint x="230" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-77" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-44">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="835" as="sourcePoint" />
+            <mxPoint x="230" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-78" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-48">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="975" as="sourcePoint" />
+            <mxPoint x="230" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-79" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-56">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="70" y="1140" as="sourcePoint" />
+            <mxPoint x="420" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="1140" />
+              <mxPoint x="90" y="1190" />
+              <mxPoint x="160" y="1190" />
+              <mxPoint x="240" y="1190" />
+              <mxPoint x="320" y="1190" />
+              <mxPoint x="400" y="1190" />
+              <mxPoint x="400" y="1140" />
+              <mxPoint x="400" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-80" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-60">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="815" as="sourcePoint" />
+            <mxPoint x="520" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-81" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-61">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="670" as="sourcePoint" />
+            <mxPoint x="440" y="724.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-82" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-59">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="935" as="sourcePoint" />
+            <mxPoint x="470" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-83" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-55">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="425" as="sourcePoint" />
+            <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-84" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-57">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="550" as="sourcePoint" />
+            <mxPoint x="550" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-85" value="назначаване на &lt;br style=&quot;font-size: 15px;&quot;&gt;админи" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1020" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-86" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BSs_yr6912N-JeRX95PI-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="1010" as="sourcePoint" />
+            <mxPoint x="240" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="1170" />
+              <mxPoint x="910" y="1170" />
+              <mxPoint x="830" y="1170" />
+              <mxPoint x="670" y="1170" />
+              <mxPoint x="670" y="1180" />
+              <mxPoint x="630" y="1180" />
+              <mxPoint x="580" y="1180" />
+              <mxPoint x="490" y="1180" />
+              <mxPoint x="300" y="1180" />
+              <mxPoint x="290" y="1180" />
+              <mxPoint x="240" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-88" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-35">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="1180" as="sourcePoint" />
+            <mxPoint x="410" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="490" />
+              <mxPoint x="380" y="470" />
+              <mxPoint x="310" y="470" />
+              <mxPoint x="240" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-89" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="620" as="sourcePoint" />
+            <mxPoint x="410" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="620" />
+              <mxPoint x="300" y="620" />
+              <mxPoint x="240" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-90" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-48">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="1040" as="sourcePoint" />
+            <mxPoint x="410" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="1040" />
+              <mxPoint x="240" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-91" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-44">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="900" as="sourcePoint" />
+            <mxPoint x="410" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="900" />
+              <mxPoint x="240" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-92" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-38">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="770" as="sourcePoint" />
+            <mxPoint x="410" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-93" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-56">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="1180" as="sourcePoint" />
+            <mxPoint x="440" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="720" />
+              <mxPoint x="750" y="720" />
+              <mxPoint x="750" y="370" />
+              <mxPoint x="710" y="370" />
+              <mxPoint x="610" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-94" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="1130" as="sourcePoint" />
+            <mxPoint x="520" y="1090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-95" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="1010" as="sourcePoint" />
+            <mxPoint x="520" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-96" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-61">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="770" as="sourcePoint" />
+            <mxPoint x="650" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="525" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-97" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-60">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="890" as="sourcePoint" />
+            <mxPoint x="650" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-99" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-57">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="620" as="sourcePoint" />
+            <mxPoint x="500" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-100" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-55">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="500" as="sourcePoint" />
+            <mxPoint x="610" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSs_yr6912N-JeRX95PI-102" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="BSs_yr6912N-JeRX95PI-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-235" y="370" as="sourcePoint" />
+            <mxPoint x="-180" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
